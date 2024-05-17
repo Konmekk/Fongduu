@@ -7,7 +7,7 @@
   "config": {
     "options": {
       "watch-url": ["https://www.youtube.com/watch?v=Z91f1QJXY18"],
-     \\ "timestamp": "{end:1719680400}"
+     "timestamp": "{end:1719680400}"
         },
         "text-1": [
             "【 {NF6({hour:1})} : {NF6({min:1})} 】 〆 【 {NF6({en=date})} / {NF6({en=month:3})} / {NF6({en=year:2})} 】 ",
